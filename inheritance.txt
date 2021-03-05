@@ -1,0 +1,12 @@
+.
+..
+...
+we are creating inheritance 
+
+for this 
+we need some classes and accessin there property by calling 
+
+ex : we can access our parents things or property through the inheritance right 
+
+
+lets started 
